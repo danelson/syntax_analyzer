@@ -1,8 +1,9 @@
-# Dan Nelson
-# CS333
-# Project 3
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+# Daniel Nelson
+# https://github.com/danelson
 # lexer.py
-# October 13, 2011
 
 import token
 
