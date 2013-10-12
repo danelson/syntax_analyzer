@@ -6,7 +6,7 @@ Place a Clite file in the same directory as the lexical and syntactic analyzers
 
 Create a file of tokens using our lexical analyzer:
 
-$ flex clite.yy 
+$ flex clite.yy
 $ gcc -o cli lex.yy.c -lfl
 
 For this line include the <> brackets
