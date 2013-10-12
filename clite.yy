@@ -1,8 +1,7 @@
 %{
 /* Dan Nelson
- * Project 2
- * September 27, 2011
- * A flex file to parse clite.
+ * https://github.com/danelson
+ * clite.yy
  */
 %}
 

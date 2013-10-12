@@ -15,8 +15,3 @@ $ ./cli <filename> destination.txt
 Create the abstract syntax tree based on the tokens:
 
 $ python parser.py <filename>
-
-
-The write-up for this week's project can be found at:
-
-http://web.colby.edu/danelson/2011/10/17/project-3-syntax-analysis/
